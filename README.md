@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeigorCaprioli
-- 👀 I’m interested in ...
+- 👀 I’m interested in Qlik.
 - 🌱 I’m currently learning About Data Enginner and Business Intelligence, more specific in Azure, Databricks and Qlik Sense.
 - 💞️ I’m looking to collaborate on Business Intelligence and Business Analytics.
 - 📫 How to reach me? Send me an email at tegorcaprioli@gmail.com. I always answer ;)
